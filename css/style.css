@@ -489,7 +489,7 @@ a {
 #livros-favoritos {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: left;
   gap: 20px;
   background-color: var(--cor-secundaria);
 
